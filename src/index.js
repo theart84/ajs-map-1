@@ -1,1 +1,1 @@
-import './js/ErrorRepository'
+import './js/ErrorRepository';
